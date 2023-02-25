@@ -20,7 +20,7 @@ sh start.sh
 start.exe
 ```
 
-> **_NOTE:_**  Swagger UI is available on http://localhost:8080/q/swagger-ui/
+> **_NOTE:_**  Swagger UI is available on: http://localhost:8080/q/swagger-ui/
 
 ## Running manually
 
